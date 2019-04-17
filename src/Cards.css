@@ -1,0 +1,72 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    background-color:#4ABDAC;
+    color:white;
+}
+
+
+
+a {
+    color:#CAEBF2;
+}
+
+a:hover {
+    color:#F7B733;
+}
+
+.arrow {
+    color: #6D7993;
+}
+
+.arrow:hover {
+    color:#F7B733;
+}
+
+.navbar {
+    font-size:16pt;
+}
+
+.card:not(.seventeenth) {
+    background-color:#4ABDAC;
+    margin-top:5%;
+    margin-bottom:55vh;
+    border:none;
+}
+.seventeenth {
+    background-color:#4ABDAC;
+    margin-top:5%;
+    margin-bottom:25vh;
+    border:none;
+}
+
+.center-align {
+    text-align:center;
+    align-content: center;
+}
+
+.input {
+    padding:2%;
+    border:solid 0.5px;
+    border-radius: 10px;
+}
+
+.input code {
+    color:white;
+}
+
+.output {
+    padding:2%;
+    border:solid 0.5px;
+    border-radius: 10px;
+    background-color:#f0f5f5;
+}
+
+@media only screen and (min-width:600px) {
+    .right {
+        float:right;
+    }
+}

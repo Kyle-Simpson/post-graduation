@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "curr_id" : "first",
+      "content" : "For those who would like to hear a little more about why that is my answer, make yourself comfortable.  I’m a big fan of context and I realize it’s been quite some time since I’ve really spoken to many of you, so I suppose I have a lot to explain.  Before I begin down the rabbit hole, I want to preemptively thank you for listening.  I realize I am borrowing your time when there are seemingly infinite amounts of other things you could be doing, so I promise there will be something in this for you too.  ",
+      "next_id" : "second"
+    },
+    {
+      "curr_id" : "second",
+      "content" : "I want to begin my story at the place where I last saw many of you, my freshman year of college.  I entered the University of Washington with an amazingly vague idea of my end-goal, but I knew the word “business” so that’s what I chose.  My experiences working towards a business degree (which was all of two quarters) provided my first glimpse of a thought that would take me three more years to fully understand.  Something about business felt fishy, so I moved on to something else I might be interested in, astronomy.  Astronomy was a very short lived phase.  Mostly because everything revolved around the visible light spectrum, and ya boi is blue-green colorblind so many of my assignments did not receive high marks.  With only a slight blow to my self-confidence, I switched to something I thought would actually get me a job - philosophy.  All joking aside, if there was a more linear career path for those with a philosophy degree I likely would have ended up with one.  My philosophy classes were my introduction to becoming the introspective hermit I am today, but knowing very well that there is no such path I made my final large jump towards something I had always been good with but had never thought about working with - computers.",
+      "next_id" : "third"
+    },
+    {
+      "curr_id" : "third",
+      "content" : "In the spring of my Freshman year I took my first coding class.  It was f***ing hard.  The first two weeks were easy enough, and then they introduced something called a parameter and I was floored.  Floored because I could not wrap my 18 year-old brain around the concept of the computer being able to remember something you referenced in another file, and still floored years later because I have yet to find a better metaphor to describe how all of my dissimilar ventures were important in some spooky way.   By the end of that quarter I was enamored with the power of coding, and felt completely disenfranchised by the geniuses I was surrounded by.  I saw the influence coding could make if utilized intelligently, but was lost in a sea of keyboard warriors.  With this I pivoted to a new field called Human Centered Design & Engineering (HCDE).  ",
+      "next_id" : "fourth"
+    },
+    {
+      "curr_id" : "fourth",
+      "content" : "HCDE was the first major I found that thought about the context of coding.  It considered why you might develop something and the social implications of your development.  This major was almost perfect for me, but it was a little too research-focussed so I made my final pivot into what I ended up studying - Informatics.  For those who are hearing this word for the first time, I’ll explain briefly.  30 years ago, this is what someone might have studied if they wanted to become a librarian, and today it is what modern, information librarians study.  I have spent the past two years learning about how to solve complex information problems through the lenses of cybersecurity, data science, information architecture, design, and policy.  Through the Informatics program, I’ve had the opportunity to become proficient in 10 different coding languages while working on projects that address some intense social problems.  I’ve designed websites to help low-income communities find scholarships, developed databases for clinics to manage information about sexually transmitted infections, written machine learning algorithms to predict dengue fever in Brazil and Peru, and am currently working on a video game to help the gaming community address the stigma behind eating disorders.  And my favorite, little-known, fun fact about all of the things I’ve done in Informatics is that I was initially waitlisted into the program.  ",
+      "next_id" : "fifth"
+    },
+    {
+      "curr_id" : "fifth",
+      "content" : "Re-centering us a bit, I was now in the fall quarter of my junior year as an Informatics major, which meant it was time to find an internship.  Being the desperate 20 year-old I was, I was looking for an internship anywhere that was going to hire me to do something tech-related for them.  The airline industry, retail, big software company, it didn’t matter to me so long as I would gain experience.  I applied to 40 different companies and got emails back from 5 over the course of 6 months.  Four of those emails were rejections, and one was from some insurance company called Liberty Mutual that offered me a phone interview.  Now, when I say that I look much better in person than I do on paper, I mean it.  I took that phone interview and sprinted all the way until they offered me an internship doing cybersecurity (something I had no formal experience with) at an insurance company (an industry I didn’t even pretend to understand).",
+      "next_id" : "sixth"
+    },
+    {
+      "curr_id" : "sixth",
+      "content" : "Fast forward to June, just days before I was going to start work at Liberty Mutual, I was scared out of my mind.   The first few weeks went smoothly as I went through onboarding, but quickly after, a realization set in that reminded me of a thought I had when I was an intended business student my freshman year.  During my business days something had felt fishy and I wasn’t yet aware enough to understand what it was, but two years later I was able to spot it clear as day.  ",
+      "next_id" : "seventh"
+    },
+    {
+      "curr_id" : "seventh",
+      "content" : "The people around me weren’t actually concerned about helping people live safer lives, they only cared about making more money and feeding into corporate greed.  This realization shattered any previous thought about what I wanted to do in my career.  Well-intentioned, intelligent, kind people can still contribute to toxic institutional structures.",
+      "next_id" : "eighth"
+    },
+    {
+      "curr_id" : "eighth",
+      "content" : "After what felt like an eternity, the internship ended and I headed to Vacaville for a month before starting my senior year.  When I returned to Seattle to begin my final year at UW, I was greeted by a post-grad, full-time offer of employment from Liberty Mutual that I was given two weeks to either accept or decline.  At that moment I had to make a decision that I knew would effect the rest of my undergraduate career, and potentially the rest of my career.  Do I take the offer and side with unhappiness, or do I decline the offer and side with uncertainty? Up until 5 minutes before the deadline to respond, my answer could have gone either way but I knew what I had to do.  I put aside my own need for stability to embrace my potential for happiness.  I declined the offer.",
+      "next_id" : "ninth"
+    },
+    {
+      "curr_id" : "ninth",
+      "content" : "I want to reiterate the magnitude of the decision I made, because it was monumental and I’d like to help you understand.  I turned down an offer that would have given me stability for at least the next five years, during the heat of tech recruiting season, with no intent to apply to any other tech jobs.  I wasn’t just taking the path less traveled through a shrouded grove, I was intentionally sitting down to wait for the fog to lift with no concept of how long I would be resting.  A decision many would call foolish.",
+      "next_id" : "tenth"
+    },
+    {
+      "curr_id" : "tenth",
+      "content" : "After all of this, I blinked twice and it was February which meant it was actually time to start applying for jobs.  Since October I had spent most of my time thinking about industries I might be interested in, and the one I had currently convinced myself I was interested in was healthcare IT.  It seemed like a place where everything is centered around patient care, so I applied to some jobs.  I also decided to apply for some jobs with the City of Seattle, the Allen Institute, the Institute for Health Metrics and Evaluation, and Vulcan.  Note that all of these places are in Seattle (because I had yet to consider living elsewhere post-grad) and also that I have yet to hear from any of them.",
+      "next_id" : "eleventh"
+    },
+    {
+      "curr_id" : "eleventh",
+      "content" : "After a very long winter quarter I traveled with my girlfriend, Isabel, (surprise to 99% of you I suppose) to Austin to enjoy some sun before returning to the rain.  People had always told me about how liberal Austin was for being in Texas and how it was an emerging tech hub, but I didn’t really believe them until I saw it for myself.  Austin in March is beautiful.  After living in rainy Seattle for four years I often forget how much the weather impacts my mood, and this trip was the first time I really considered uprooting everything again to live somewhere completely different.  As all good things do, the trip came to an end and I headed back to Seattle to face my final quarter as an undergraduate.",
+      "next_id" : "twelth"
+    },
+    {
+      "curr_id" : "twelth",
+      "content" : "So here we are.  Back in Seattle, in the middle of April, with no idea what I’m doing in two months.  To wrap up my story I want to teach you something about coding so you can actually leave with something new learned.  Much earlier I talked about parameters and how they’re a great metaphor for everything I’ve done thus far, so let’s briefly dive into the basis of the metaphor.",
+      "next_id" : "thirteenth"
+    }
+
+  ]
+}
