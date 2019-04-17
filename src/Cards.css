@@ -6,6 +6,7 @@ body {
     font-family: 'Source Code Pro', monospace;
     background-color:#4ABDAC;
     color:white;
+    /* scroll-behavior: smooth; */
 }
 
 
@@ -19,11 +20,7 @@ a:hover {
 }
 
 .arrow {
-    color: #6D7993;
-}
-
-.arrow:hover {
-    color:#F7B733;
+    display: none;
 }
 
 .navbar {
@@ -69,4 +66,15 @@ a:hover {
     .right {
         float:right;
     }
+
+    .arrow {
+        color: #6D7993;
+        display:inline;
+    }
+    
+    .arrow:hover {
+        color:#F7B733;
+    }
+
+
 }
