@@ -64,7 +64,7 @@ export class Cards extends Component {
                                     Below we see a basic element of any coding language, a function.  You can see that this function is called Kyle, followed by some parenthesis, an opening curly bracket (inside of which is the core of the function), two slashes and the sentence “do something cool”, and finally the closing curly bracket.  Inside the function (between the brackets) we can write code that the function will run, and it will ignore anything that starts with the two slashes (this is called a comment).  Right now the function does nothing since all that’s inside is a comment.
                             </CardText>
                                 <CardText className="input">
-                                    <code> function() Kyle &#123; <br></br>
+                                    <code> function Kyle() &#123; <br></br>
                                         &nbsp;&nbsp;&nbsp;&nbsp;// do something cool <br></br>
                                         &#125;
                                     </code>
@@ -104,7 +104,7 @@ export class Cards extends Component {
                         <Card body>
                             <CardBody>
                                 <CardText>
-                                    Now let’s introduce a parameter.  A parameter is something we add inside the parenthesis of a function name that essentially acts as a placeholder.  You can name a parameter whatever you like and reference it in your function in place of something you want to dynamically pass into the function.  As you can see below, our function has been updated to use a parameter which I call WhatToPrint, and the function will now print whatever I pass in when I call it.
+                                    Now let’s introduce a parameter.  A parameter is something we add inside the parenthesis of a function name that essentially acts as a placeholder.  You can name a parameter whatever you like and reference it in your function in place of something you want to dynamically pass into the function.  As you can see below, our function has been updated to use a parameter, which I call WhatToPrint, and the function will now print whatever I pass in when I call it.
                                 </CardText>
                                 <CardText className="input">
                                     <code>
