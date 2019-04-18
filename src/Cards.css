@@ -30,13 +30,7 @@ a:hover {
 .card:not(.seventeenth) {
     background-color:#4ABDAC;
     margin-top:5%;
-    margin-bottom:55vh;
-    border:none;
-}
-.seventeenth {
-    background-color:#4ABDAC;
-    margin-top:5%;
-    margin-bottom:25vh;
+    margin-bottom:5vh;
     border:none;
 }
 
@@ -76,5 +70,16 @@ a:hover {
         color:#F7B733;
     }
 
-
+    .card:not(.seventeenth) {
+        background-color:#4ABDAC;
+        margin-top:5%;
+        margin-bottom:55vh;
+        border:none;
+    }
+    .seventeenth {
+        background-color:#4ABDAC;
+        margin-top:5%;
+        margin-bottom:25vh;
+        border:none;
+    }
 }
